@@ -1,0 +1,15 @@
+C:\Users\Jenni\source\repos\Changing strings to integers\bin\Debug\net6.0\Changing strings to integers.exe
+C:\Users\Jenni\source\repos\Changing strings to integers\bin\Debug\net6.0\Changing strings to integers.deps.json
+C:\Users\Jenni\source\repos\Changing strings to integers\bin\Debug\net6.0\Changing strings to integers.runtimeconfig.json
+C:\Users\Jenni\source\repos\Changing strings to integers\bin\Debug\net6.0\Changing strings to integers.dll
+C:\Users\Jenni\source\repos\Changing strings to integers\bin\Debug\net6.0\Changing strings to integers.pdb
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.csproj.AssemblyReference.cache
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.AssemblyInfoInputs.cache
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.AssemblyInfo.cs
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.csproj.CoreCompileInputs.cache
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.dll
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\refint\Changing strings to integers.dll
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.pdb
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\Changing strings to integers.genruntimeconfig.cache
+C:\Users\Jenni\source\repos\Changing strings to integers\obj\Debug\net6.0\ref\Changing strings to integers.dll
